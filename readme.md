@@ -6,7 +6,7 @@
 
 我们方案在线上比赛的ab榜最终成绩都是第三;
 
-![1552813759590](.\pic\1554875229(1).jpg)
+![1552813759590](https://github.com/cheungwoonming/DF-SCADA-data-restoration/tree/master/pic/1554875229(1).jpg)
 
 
 
@@ -18,7 +18,7 @@
 
 最终评分就这样，两个4分直接把我们队拖到门外了。
 
-![1552813759590](.\pic\e23f412f11936d61da01ee550eaeafc.png)
+![1552813759590](https://github.com/cheungwoonming/DF-SCADA-data-restoration/tree/master/pic/e23f412f11936d61da01ee550eaeafc.png)
 
 主办方倾向于想要一些非传统“特征-目标预测”的模型，我们的方案就中规中矩没啥特色，第一第二名的方案比较牛，多研究他们的方案比较有益。
 
